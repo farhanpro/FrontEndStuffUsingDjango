@@ -1,0 +1,13 @@
+#head{
+  border: 2px solid red ;
+  width: 25%;
+  text-align: center;
+/*top right bottom left*/
+  margin: auto;
+}
+#bottom{
+  border: 2px solid blue;
+  width: 35%;
+  text-align: center;
+  margin: left; 
+}

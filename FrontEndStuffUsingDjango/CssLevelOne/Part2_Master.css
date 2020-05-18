@@ -1,0 +1,19 @@
+body{
+  background: url();
+}
+div{
+  background: rgb(255, 255, 179);
+  border-color: blue;
+  border-width: 5px;
+  border-style: solid;
+}
+h1{
+  color:  #ff3333;
+}
+p{
+  color : orange;
+}
+span{
+  color: #ff4da6;
+  background: indigo;s
+}

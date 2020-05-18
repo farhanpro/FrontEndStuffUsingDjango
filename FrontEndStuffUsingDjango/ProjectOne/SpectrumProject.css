@@ -1,0 +1,28 @@
+#Font{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+.center{
+  margin: auto;
+}
+td{
+  background-color: black;
+  height: 300px;
+  width : 100px;
+  border: 6px solid white;
+}
+#one{
+  background-color: #2b3a67;
+}
+#two{
+  background-color: #496a81;
+}
+#three{
+  background-color: #66999b;
+}
+#four{
+  background-color: #b3af8f;
+}
+#five{
+  background-color: #ffc482;
+}
