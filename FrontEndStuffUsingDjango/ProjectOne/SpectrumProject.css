@@ -26,3 +26,17 @@ td{
 #five{
   background-color: #ffc482;
 }
+.container{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 1.6em;
+}
+.Email{
+  border-radius: 25px;
+}
+#Sub{
+  margin-bottom: 4px;
+  border-radius: 25px;
+  border-color: red;
+
+}

@@ -1,0 +1,12 @@
+.color{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  font-size: 1em;
+}
+.border{
+  border-radius: 10px;
+}
+#rol{
+  color: grey;
+}

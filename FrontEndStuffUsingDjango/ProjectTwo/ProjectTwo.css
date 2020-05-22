@@ -1,3 +1,47 @@
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+.sticky{
+  position: fixed;
+  margin-left: : 0px;
+  background-color: #333;
+  border-radius: 10px;
+}
+td{
+  background-color: black;
+  height: 300px;
+  width : 100px;
+  border: 6px solid white;
+  alin :center;
+}
+.center{
+  margin: auto;
+}
+#one{
+  background-color: #2b3a67;
+}
+#two{
+  background-color: #496a81;
+}
+#three{
+  background-color: #66999b;
+}
+#four{
+  background-color: #b3af8f;
+}
+#five{
+  background-color: #ffc482;
+}
+#six{
+  background-color: #2b3a67;
+}
+#seven{
+  background-color: #496a81;
+}
+#eight{
+  background-color: #66999b;
+}
 #Font{
   font-family: 'Pacifico', cursive;
   text-align: center;
@@ -30,4 +74,7 @@ margin: 0px;
   font-family: 'Pacifico', cursive;
   font-size: 1.2em;
   margin-bottom: 4px;
+}
+.container{
+  text-align: center;
 }
